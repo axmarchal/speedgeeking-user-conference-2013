@@ -1,0 +1,2 @@
+http://patrickarlt.github.io/introducing-terraformer-slides/#/
+https://github.com/patrickarlt/introducing-terraformer-slides
